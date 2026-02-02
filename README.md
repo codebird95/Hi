@@ -1,7 +1,2 @@
 # Hi
 # Hello
-# Hello
-# Hello
-# Hello
-# Hello
-# Hello
